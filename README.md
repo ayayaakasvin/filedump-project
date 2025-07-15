@@ -1,0 +1,1 @@
+Full Project with docker-compose up.
