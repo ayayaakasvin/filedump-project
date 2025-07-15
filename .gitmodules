@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/ayayaakasvin/filedump-api
+[submodule "front"]
+	path = front
+	url = https://github.com/ayayaakasvin/filedump-front
